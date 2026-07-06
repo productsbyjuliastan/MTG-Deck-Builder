@@ -1,0 +1,10 @@
+{
+  "name": "MTG Storage Box & Deck Builder",
+  "description": "A comprehensive card scanner, storage box manager, and format-aware deck builder with AI-powered synergy suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
